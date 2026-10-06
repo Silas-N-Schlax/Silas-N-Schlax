@@ -40,14 +40,14 @@ I trained through The Odin Project and RoleModel's Software Craftsmanship Academ
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
-    <img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/stats-dark.svg" />
+    <img width="100%" src="./profile-stats/stats-light.svg" alt="GitHub stats: commits, pull requests, rank, streak, and total contributions" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Silas-N-Schlax&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=30363d" />
-    <img src="https://streak-stats.demolab.com?user=Silas-N-Schlax&hide_border=true&background=ffffff&ring=2563eb&fire=2563eb&currStreakNum=1f2937&sideNums=1f2937&currStreakLabel=2563eb&sideLabels=6b7280&dates=6b7280&stroke=e5e7eb" alt="Contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+    <img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
   </picture>
 </p>
