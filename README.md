@@ -57,5 +57,8 @@ I trained through The Odin Project and RoleModel's Software Craftsmanship Academ
 </p>
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/2563eb/Silas-N-Schlax" alt="Contribution calendar" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+    <img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+  </picture>
 </p>
