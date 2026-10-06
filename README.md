@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://rolemodelsoftware.com"><img src="https://img.shields.io/badge/RoleModel_Software-Developer-2563EB?style=flat-square" alt="RoleModel Software" /></a>
-  <a href="mailto:silasschlax@gmail.com"><img src="https://img.shields.io/badge/Email-silasschlax%40gmail.com-1F2937?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
