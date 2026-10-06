@@ -40,12 +40,8 @@ I trained through The Odin Project and RoleModel's Software Craftsmanship Academ
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Silas-N-Schlax&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_title=true&rank_icon=github" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Silas-N-Schlax&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=2563eb&icon_color=2563eb&text_color=1f2937&hide_title=true&rank_icon=github" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Silas-N-Schlax&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silas-N-Schlax&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=1f2937&langs_count=6" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+    <img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
   </picture>
 </p>
 
@@ -53,12 +49,5 @@ I trained through The Odin Project and RoleModel's Software Craftsmanship Academ
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Silas-N-Schlax&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=30363d" />
     <img src="https://streak-stats.demolab.com?user=Silas-N-Schlax&hide_border=true&background=ffffff&ring=2563eb&fire=2563eb&currStreakNum=1f2937&sideNums=1f2937&currStreakLabel=2563eb&sideLabels=6b7280&dates=6b7280&stroke=e5e7eb" alt="Contribution streak" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
-    <img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
   </picture>
 </p>
