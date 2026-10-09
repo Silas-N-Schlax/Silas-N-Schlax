@@ -7,7 +7,7 @@
     .heading { font-size: 14px; font-weight: 600; fill: #2563eb; }
     .big { font-size: 36px; font-weight: 700; fill: #1f2937; }
     .tile { opacity: 0; animation: fade 600ms ease-out forwards; }
-    .ring { stroke-dashoffset: 104.40181184616755; animation: fill 1s ease-out 300ms forwards; }
+    .ring { stroke-dashoffset: 104.41103780530966; animation: fill 1s ease-out 300ms forwards; }
     @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
     @keyframes fill { to { stroke-dashoffset: 0; } }
     @media (prefers-reduced-motion: reduce) { .tile, .ring { animation: none; opacity: 1; stroke-dashoffset: 0; } }
@@ -20,7 +20,7 @@
     <text x="239" y="44" class="value" text-anchor="end">1</text>
     <svg x="23" y="60" width="16" height="16" viewBox="0 0 16 16" fill="#2563eb"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path></svg>
     <text x="49" y="72" class="label">Total commits</text>
-    <text x="239" y="72" class="value" text-anchor="end">1,791</text>
+    <text x="239" y="72" class="value" text-anchor="end">1,792</text>
     <svg x="23" y="88" width="16" height="16" viewBox="0 0 16 16" fill="#2563eb"><path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path></svg>
     <text x="49" y="100" class="label">Pull requests</text>
     <text x="239" y="100" class="value" text-anchor="end">65</text>
@@ -36,7 +36,7 @@
     
     <circle cx="363" cy="84" r="44" fill="none" stroke="#e5e7eb" stroke-width="7" />
     <circle class="ring" cx="363" cy="84" r="44" fill="none" stroke="#2563eb" stroke-width="7"
-      stroke-linecap="round" stroke-dasharray="104.40181184616755 276.46015351590177" transform="rotate(-90 363 84)" />
+      stroke-linecap="round" stroke-dasharray="104.41103780530966 276.46015351590177" transform="rotate(-90 363 84)" />
     <text x="363" y="94" class="big" text-anchor="middle">B</text>
     <text x="363" y="160" class="muted" text-anchor="middle">GitHub rank</text>
   </g>
@@ -45,9 +45,9 @@
     
     <svg x="489" y="22" width="16" height="16" viewBox="0 0 16 16" fill="#2563eb"><path d="M9.533.753V.752c.217 2.385 1.463 3.626 2.653 4.81C13.37 6.74 14.498 7.863 14.498 10c0 3.5-3 6-6.5 6S1.5 13.512 1.5 10c0-1.298.536-2.56 1.425-3.286.376-.308.862 0 1.035.454C4.46 8.487 5.581 8.419 6 8c.282-.282.341-.811-.003-1.5C4.34 3.187 7.035.75 8.77.146c.39-.137.726.194.763.607ZM7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.79 2.79 0 0 1-1.436-.874A3.198 3.198 0 0 0 3 10c0 2.53 2.164 4.5 4.998 4.5Z"></path></svg>
     <text x="513" y="35" class="heading">Streak</text>
-    <text x="489" y="86" class="big">5</text>
+    <text x="489" y="86" class="big">6</text>
     <text x="523" y="86" class="label">days current</text>
-    <text x="489" y="106" class="muted">Oct 4 – Oct 8</text>
+    <text x="489" y="106" class="muted">Oct 4 – Oct 9</text>
     <line x1="489" x2="641" y1="124" y2="124" stroke="#e5e7eb" />
     <text x="489" y="150" class="value">6 days longest</text>
     <text x="489" y="170" class="muted">May 11 – May 16</text>
@@ -57,7 +57,7 @@
     
     <svg x="701" y="22" width="16" height="16" viewBox="0 0 16 16" fill="#2563eb"><path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"></path></svg>
     <text x="725" y="35" class="heading">Contributions</text>
-    <text x="701" y="104" class="big">2,214</text>
+    <text x="701" y="104" class="big">2,228</text>
     <text x="701" y="130" class="label">total contributions</text>
     <text x="701" y="170" class="muted">Jun 7, 2022 – Present</text>
   </g>
